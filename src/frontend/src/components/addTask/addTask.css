@@ -1,0 +1,55 @@
+.main-wrapper {
+    width: 520px;
+}
+
+.add-task-wrapper, .add-category-wrapper {
+    margin-top: 30px;
+    width: 500px;
+    min-height: 300px;
+}
+
+.add-task-wrapper label {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.add-task-wrapper input.error {
+    border: 3px solid red;
+}
+
+.add-task-wrapper button {
+    margin: 20px 0;
+}
+
+.add-task-wrapper p.warning {
+    color: rgba(212, 2, 2, 0.74);
+}
+
+.add-task-wrapper p.success {
+    color: greenyellow;
+}
+
+.add-category-wrapper span {
+    font-size: 20px;
+}
+
+.add-category-wrapper label {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.add-category-wrapper input.error {
+    border: 3px solid red;
+}
+
+.add-category-wrapper button {
+    margin: 20px 0;
+}
+
+.add-category-wrapper p.warning {
+    color: rgba(212, 2, 2, 0.74);
+}
+
+.add-category-wrapper p.success {
+    color: greenyellow;
+}

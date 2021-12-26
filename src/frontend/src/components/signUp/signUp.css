@@ -1,0 +1,31 @@
+.sign-up-wrapper {
+    margin-top: 30px;
+    width: 500px;
+    min-height: 700px;
+}
+
+.sign-up-wrapper span {
+    font-size: 20px;
+}
+
+.sign-up-wrapper label {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.sign-up-wrapper input.error {
+    border: 3px solid red;
+}
+
+.sign-up-wrapper button {
+    margin: 20px 0;
+}
+
+.sign-up-wrapper p.warning {
+    color: red;
+}
+
+.sign-up-wrapper p.success {
+    color: greenyellow;
+}
+

@@ -1,0 +1,27 @@
+.main-page {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    min-height: 900px;
+}
+
+.datepicker-wrapper {
+    margin: 20px 0px;
+}
+
+.datepicker-wrapper label {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.addition-wrapper {
+    width: 520px;
+}
+
+.tasks-wrapper {
+    width: 60%;
+}
+
+.main-page p {
+    font-size: 26px;
+}

@@ -1,0 +1,32 @@
+.card {
+    min-height: 540px;
+}
+
+.card .card-header {
+    background-color: #198754;
+}
+
+.card .list-group-item {
+    padding-right: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card .description {
+    width: 90%;
+}
+
+.card .description.strike {
+    text-decoration: line-through;
+}
+
+.delete-icon-wrapper {
+    cursor: pointer;
+    width: 5%;
+}
+
+.done-icon-wrapper {
+    cursor: pointer;
+    width: 5%;
+    color: green;
+}
